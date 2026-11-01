@@ -144,7 +144,7 @@ AquaNova/
 
 ## 🚀 Getting Started
 
-### Prerequisites
+#### Prerequisites
 
 Ensure you have the following installed on your machine:
 - [Node.js (v18.0.0 or higher)](https://nodejs.org/) & `npm`
